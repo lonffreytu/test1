@@ -1,0 +1,17 @@
+{
+    "Weight": {
+        "name": {
+            "string": { }
+        },
+        "weight": {
+            "int": {
+                "min": 0, "max": 1000000
+            }
+        },
+        "date": {
+            "int": {
+                "min": 0, "max": 100000000
+            }
+        }
+    }
+}
